@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andreendo/cy-example01.git"
+    "url": "git+https://github.com/jgvilela/cy-example01.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/andreendo/cy-example01/issues"
+    "url": "https://github.com/jgvilela/cy-example01/issues"
   },
-  "homepage": "https://github.com/andreendo/cy-example01#readme",
+  "homepage": "https://github.com/jgvilela/cy-example01#readme",
   "devDependencies": {
     "cypress": "^4.12.0"
   }
